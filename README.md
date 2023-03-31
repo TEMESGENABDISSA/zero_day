@@ -1,1 +1,6 @@
-This file is mandatory in projects
+ AUTHOR : TEMESGEN ABDISSA
+ 
+ DATE : JANUARY / 2023
+  
+ MY ZERO DAY JOURNEY AS SOFTWARE ENGINNER.
+
